@@ -1,16 +1,20 @@
-### Hi there 👋
+### Greetings! 👋
+
+> [!NOTE]  
+> I'm a DevOps Engineer mostly interested in Linux, Kubernetes, Go and automation.
+
+- 🔭 I’m currently working on my own API.
+- 🌱 I’m currently learning Go and Python.
 
 <!--
-**majermarci/majermarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
 -->
