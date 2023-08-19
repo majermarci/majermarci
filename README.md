@@ -1,7 +1,6 @@
 ### Greetings! 👋
 
-> [!NOTE]  
-> I'm a DevOps Engineer mostly interested in Linux, Kubernetes, Go and automation.
+I'm a DevOps Engineer mostly interested in Linux, Kubernetes, Go and automation.
 
 - 🔭 I’m currently working on my own API.
 - 🌱 I’m currently learning Go and Python.
