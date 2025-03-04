@@ -1,4 +1,4 @@
-:cloud: Cloud DevOps Engineer
+DevOps Engineer
 & <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="15" height="15"/> Go Dev
 
 <!---
